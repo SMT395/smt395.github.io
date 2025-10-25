@@ -1,8 +1,4 @@
 
----
-layout: home
-title: "SMT395"
----
 
 # Welcome
 
