@@ -1,0 +1,16 @@
+---
+---
+
+@import "minima";   // keep the theme's CSS
+
+/* your tweaks */
+.pdf-wrap { height: 85vh; }
+.pdf-wrap iframe,
+.pdf-wrap object { height: 100%; width: 100%; border: 0; }
+
+/* optional button */
+.btn {
+  display: inline-block; padding: .5rem .9rem; border-radius: .4rem;
+  border: 1px solid #ddd; text-decoration: none;
+}
+.btn:hover { background: #f6f6f6; }
