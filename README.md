@@ -1,4 +1,3 @@
-smt395.github.io
 
 ---
 ## Work in progress - TO BE COMPLETED
