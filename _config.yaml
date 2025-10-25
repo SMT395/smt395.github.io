@@ -5,6 +5,8 @@ theme: minima
 header_pages:
   - blog.md
   - about.md
+  - cv.md
+
 
   
 permalink: /:categories/:year/:month/:day/:title/
