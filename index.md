@@ -1,7 +1,11 @@
+
 ---
 layout: home
 title: "SMT395"
 ---
 
-{% capture readme %}{% include_relative index.md %}{% endcapture %}
-{{ readme | markdownify }}
+# Welcome
+
+This site hosts my experiments, notes, and blog posts.  
+Use the links above to explore.
+
