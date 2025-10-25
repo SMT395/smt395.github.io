@@ -1,24 +1,10 @@
+##### REMINDERS - PAGES
 
----
-## Work in progress - TO BE COMPLETED
----
+About 
 
-About me
-Moin! Glad to see you here, currently building this page.
+Blog
 
+CV
 
-Education
+Projects
 
-ULB 
-Solvay
-FG
-
-Resume
-
-ECB
-KPMG
-KU Leuven
-
-Projects (Blog?)
-
-- Dissertation on Bayesian stuff
