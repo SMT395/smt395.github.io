@@ -1,4 +1,4 @@
-title: "SMT395"
+title: "Imagination running low"
 description: "Notes & experiments"
 theme: minima
 
@@ -11,7 +11,9 @@ header_pages:
   
 permalink: /:categories/:year/:month/:day/:title/
 plugins:
+  - jemoji
   - jekyll-feed
   - jekyll-paginate
+
 paginate: 5
 paginate_path: "/blog/page:num"
