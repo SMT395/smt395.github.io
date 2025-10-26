@@ -1,18 +1,22 @@
 title: "Imagination running low"
 description: "Notes & experiments"
-author:
-  name: Thomas I. Khan
-  email: thomas.khan@outlook.com
-  url: "www.linkedin.com/in/thomas-i-khan-04b23b36a"
+
 theme: minima
+
+minima:
+  author:
+    name: Thomas I. Khan
+    email: thomas.khan@outlook.com
+    url: "https://www.linkedin.com/in/thomas-i-khan-04b23b36a/"
+  social_links:
+    - { platform: github, user_url: "https://github.com/SMT395" }
+    - { platform: linkedin, user_url: "https://www.linkedin.com/in/thomas-i-khan-04b23b36a/" }
 
 header_pages:
   - blog.md
   - about.md
   - cv.md
 
-
-  
 permalink: /:categories/:year/:month/:day/:title/
 plugins:
   - jemoji
