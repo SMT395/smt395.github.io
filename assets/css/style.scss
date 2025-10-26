@@ -14,3 +14,15 @@
   border: 1px solid #ddd; text-decoration: none;
 }
 .btn:hover { background: #f6f6f6; }
+
+
+/* signature footer */
+.footer-sig {
+  text-align: center;
+  color: #666;
+  font-size: 0.9rem;
+  padding: 1.25rem 0;
+}
+.footer-sig a { text-decoration: none; }
+.footer-sig a:hover { text-decoration: underline; }
+.footer-sig .sep { margin: 0 .5rem; opacity: .6; }
