@@ -15,13 +15,16 @@ permalink: /about/
     </p>
 
     <p>
-      Right now I am busy writing my @ULB dissertation and helping a @KUL research group with machine vision implementation.  
-      What will ultimately end up on this page is anyone's guess but I should hope to share some thoughts and insights.
-
-      Let's aim for the 🌙!
+      💻-nerd, intrigued by probability & statistics, dissastified by economics, switched gears and changed course towards ML/AI/(buzz-word of choice) 
     </p>
 
     <p>
+      Busy writing my @ULB dissertation and helping a @KUL research group with machine vision implementation.  
+      What will ultimately end up on this page is anyone's guess but I should hope to share some thoughts and insights.
+    </p>
+
+    <p>
+      Let's aim for the 🌙!
       Feel free to reach out via
       <a href="mailto:thomas.khan@outlook.com">email</a>
       or connect on
