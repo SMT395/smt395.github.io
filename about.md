@@ -15,17 +15,18 @@ permalink: /about/
     </p>
 
     <p>
-      💻-nerd, intrigued by probability & statistics, dissastified by economics, switched gears and changed course towards ML/AI/(buzz-word of choice) 
+      💻-nerd, intrigued by probability & statistics, dissastified with economics. <br>
+      Switched gears and changed course towards ML/(buzz-word of choice) 
     </p>
 
     <p>
-      Busy writing my @ULB dissertation on discrete Bayesian Inference and helping a @KUL research group with machine vision implementation.  
+      Busy writing my @ULB dissertation on discrete Bayesian Inference and helping a @KUL research group with machine vision implementation. <br>
       What will ultimately end up on this page is anyone's guess but I should hope to share some thoughts and insights.
     </p>
 
     <p>
-      Let's aim for the 🌙!
-      Feel free to reach out via
+      Let's aim for the 🌙! <br>
+      Feel free to reach out via <br>
       <a href="mailto:thomas.khan@outlook.com">email</a>
       or connect on
       <a href="https://www.linkedin.com/in/thomas-i-khan-04b23b36a/">LinkedIn</a>.
