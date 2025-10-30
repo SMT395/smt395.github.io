@@ -11,15 +11,14 @@ permalink: /about/
 
   <div style="flex:1;min-width:250px;">
     <p>
-      I am Thomas I. Khan — a data scientist and machine-learning researcher
-      fascinated by Bayesian inference, probabilistic models, and the mathematics
-      underpinning them.
+      Currently living in Brussels, 🇬🇧 raised across :de: & 🇫🇷 - whatever brought over, have a delightful day.
     </p>
 
     <p>
-      Currently I work on computer-vision pipelines and information-theoretic
-      inference methods, blending theory and implementation.  This site gathers
-      my ongoing projects, notes, and interactive demonstrations.
+      Right now I am busy writing my @ULB dissertation and helping a @KUL research group with machine vision implementation.  
+      What will ultimately end up on this page is anyone's guess but I should hope to share some thoughts and insights.
+
+      Let's aim for the 🌙!
     </p>
 
     <p>
