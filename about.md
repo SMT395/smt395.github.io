@@ -19,7 +19,7 @@ permalink: /about/
     </p>
 
     <p>
-      Busy writing my @ULB dissertation and helping a @KUL research group with machine vision implementation.  
+      Busy writing my @ULB dissertation on discrete Bayesian Inference and helping a @KUL research group with machine vision implementation.  
       What will ultimately end up on this page is anyone's guess but I should hope to share some thoughts and insights.
     </p>
 
