@@ -11,7 +11,7 @@ permalink: /about/
 
   <div style="flex:1;min-width:250px;">
     <p>
-      Currently living in :be: Brussels, 🇬🇧 raised across :de: & 🇫🇷 - no matter what brought you over, I wish you a delightful day.
+      Currently living in 🇧🇪 Brussels, 🇬🇧 raised across :de: & 🇫🇷 - no matter what brought you over, I wish you a delightful day.
     </p>
 
     <p>
