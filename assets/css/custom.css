@@ -1,1 +1,40 @@
+/* --- GLOBAL WIDTH FIX --- */
+.page-content .wrapper {
+    max-width: 900px !important;   /* from ~650px → 900px */
+    padding: 0 25px;
+}
 
+/* --- HEADING SIZE FIXES --- */
+h1 {
+    font-size: 1.9rem !important;  /* down from 2.6–3.0 */
+    margin-bottom: 0.8rem;
+}
+
+h2 {
+    font-size: 1.5rem !important;
+    margin-top: 2rem;
+    margin-bottom: 0.6rem;
+}
+
+h3 {
+    font-size: 1.25rem !important;
+    margin-top: 1.4rem;
+    margin-bottom: 0.4rem;
+}
+
+/* --- SPACING BETWEEN SECTIONS --- */
+.section-break {
+    margin-top: 2.5rem;
+    margin-bottom: 1.2rem;
+}
+
+/* --- Bullet list spacing --- */
+ul {
+    margin-top: 0.2rem;
+    margin-bottom: 1rem;
+}
+
+/* --- Reduce excessive bold/heading weight --- */
+h1, h2, h3 {
+    font-weight: 600;
+}
