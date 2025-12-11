@@ -4,11 +4,6 @@ title: "Curriculum Vitae"
 permalink: /cv/
 ---
 
-# **Thomas Iqbal Khan-Bellanger**
-_Data Science MSc — Machine Learning & Computational Statistics_
-
-Email: **thomas.khan@outlook.com**  
-GitHub: **https://github.com/SMT395**  
 PDF version: **[Download here](/assets/CV.pdf)**  
 
 Languages: **English (C2)** · **French (C2)** · **German (C1)**
@@ -37,18 +32,12 @@ Relevant Coursework: Machine Learning, Time Series, Computational Statistics, Bi
 - **Neural Random Forest Replication** — TensorFlow re-implementation and interpretability assessment vs. tree ensembles.  
 - **EMG-Based Joint Angle Prediction** — Modular CNN + DANN pipeline for sEMG regression; **2nd/41** in MSc project competition.
 
----
-
-### **M.Sc. in Economics (Cum Laude, 15.5/20)**  
+### **M.Sc. & B.Sc. in Economics (M.Sc. Cum Laude)**
 **Solvay Brussels School of Economics & Management**  
-*2019 – 2021*
+*2014 – 2021*  
+Minor: **Statistics/Econometrics**  
+Focus: **Econometrics, statistics, financial modelling**
 
-Focus: Econometrics, statistics, financial modelling.
-
-### **B.Sc. in Economics**  
-**Solvay Brussels School of Economics & Management**  
-Minor: Statistics/Econometrics  
-*2014 – 2019*
 
 ### **Baccalauréat**  
 Französisches Gymnasium zu Berlin  
@@ -58,16 +47,14 @@ Französisches Gymnasium zu Berlin
 
 ## **Experience**
 
-### **Machine Learning Research Assistant**  
-**KU Leuven — Faculty of Engineering Science**  
+### **Machine Learning Research Assistant**
+**KU Leuven – Faculty of Engineering Science (Chem & Tech)**  
 *2024 – Present*
 
-- Designed, trained, and evaluated **YOLO-based object detection systems** for plastic-sorting under severe domain shift.  
-- Built an **end-to-end vision data infrastructure**: AWS S3, UID-based metadata registries (Polars/DuckDB), deterministic data ingestion, and automated cropping pipelines.  
-- Produced and curated a **large multi-class dataset** (PE, PP, PS, ABS, PVC) using Label-Studio with custom OBB exporters and batch-inference tools.  
-- Developed a **PyTorch classifier** with colour-invariant augmentation, domain-balanced sampling, and modular configuration.  
-- Containerised camera I/O, detection, cropping, and classification pipelines using **Docker**, enabling reproducible experiments.  
-- Set up robust internal tooling for dataset growth, reproducibility, and faculty-wide use.
+- Designed and trained a **YOLO-based object detection model** to locate plastic items in heterogeneous imaging conditions (industrial conveyor vs lab setups), including dataset construction, annotation workflows, and evaluation.
+- Developed a **plastic-type classification model** using cropped ROIs from the detector, focusing on robustness across domains and practical constraints of real-world sorting environments.
+- Built an **end-to-end prototype system** integrating detection → cropping → classification, packaged into modular Docker services for reproducible deployment and internal faculty testing.
+- Established reusable **ML data infrastructure**, enabling scalable experiments and clean dataset growth for the research group.
 
 ---
 
