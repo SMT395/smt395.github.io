@@ -89,14 +89,6 @@ Französisches Gymnasium zu Berlin
 
 ---
 
-## **Selected Training**
-
-- Fundamentals of Machine Learning (ECB, 2022)  
-- Market Risk – ECB-SSM (2022)  
-- Python (GeorgiaTech / EdX, 2021)
-
----
-
 ## **Links**
 
 - GitHub: **https://github.com/SMT395**  
