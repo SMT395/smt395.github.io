@@ -18,9 +18,9 @@ Applied ML in Finance, Engineering, and Scientific Computing
 
 ---
 
-#### **Education**
+### **Education**
 
-##### **M.Sc. in Data Science**  
+#### **M.Sc. in Data Science**  
 **Université libre de Bruxelles (ULB) — Faculty of Science**  
 *2024 – Present*
 
@@ -32,7 +32,7 @@ Relevant Coursework: Machine Learning, Time Series, Computational Statistics, Bi
 - **Neural Random Forest Replication** — TensorFlow re-implementation and interpretability assessment vs. tree ensembles.  
 - **EMG-Based Joint Angle Prediction** — Ensembling models and Domain Adversarial Neural Network implementation on sEMG; **2nd/41** in MSc project competition.
 
-##### **M.Sc. & B.Sc. in Economics (M.Sc. Cum Laude)**
+#### **M.Sc. & B.Sc. in Economics (M.Sc. Cum Laude)**
 **Solvay Brussels School of Economics & Management**  
 *2014 – 2021*  
 Minor: **Statistics/Econometrics**  
@@ -45,9 +45,9 @@ Französisches Gymnasium zu Berlin
 
 ---
 
-#### **Experience**
+### **Experience**
 
-##### **Machine Learning Research Assistant**
+#### **Machine Learning Research Assistant**
 **KU Leuven – Faculty of Engineering Science (Chem & Tech)**  
 *2024 – Present*
 
@@ -58,7 +58,7 @@ Französisches Gymnasium zu Berlin
 
 ---
 
-##### **Senior Associate — Risk & Treasury Consulting**  
+#### **Senior Associate — Risk & Treasury Consulting**  
 **KPMG GmbH (Frankfurt)**  
 *03.2024 – 10.2024*
 
@@ -67,7 +67,7 @@ Französisches Gymnasium zu Berlin
 
 ---
 
-##### **Supervisory Analyst — Banking Supervision**  
+#### **Supervisory Analyst — Banking Supervision**  
 **European Central Bank (DG-OMI)**  
 *09.2021 – 09.2023*
 
@@ -78,7 +78,7 @@ Französisches Gymnasium zu Berlin
 
 ---
 
-#### **Technical Skills**
+### **Technical Skills**
 
 **ML & Data Science:** PyTorch, Yolo (Ultralytics), TensorFlow, scikit-learn, Jax, NumPy
 **Tools & Infra:** Git, Docker, Label-Studio, Polars, DuckDB, Apache Spark, Tableau  
@@ -86,7 +86,7 @@ Französisches Gymnasium zu Berlin
 
 ---
 
-#### **Links**
+### **Links**
 
 - GitHub: **https://github.com/SMT395**  
 - Email: **thomas.khan@outlook.com**
