@@ -1,47 +1,55 @@
-\documentclass[11pt,a4paper]{article}
+\documentclass[10pt,a4paper]{article}
 
-\usepackage[margin=2.2cm]{geometry}
+% ---------- Geometry ----------
+\usepackage[margin=2cm]{geometry}
+
+% ---------- Fonts & layout ----------
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
 \usepackage{setspace}
+\setstretch{1.05}
+
+% ---------- Lists ----------
 \usepackage{enumitem}
-\usepackage{hyperref}
-\usepackage{titlesec}
+\setlist[itemize]{
+  leftmargin=*,
+  itemsep=2pt,
+  topsep=2pt,
+  parsep=0pt,
+  partopsep=0pt
+}
 
+% Pandoc compatibility
 \providecommand{\tightlist}{%
-  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+  \setlength{\itemsep}{2pt}\setlength{\parskip}{0pt}}
 
-
-\setstretch{1.1}
-\setlist[itemize]{noitemsep, topsep=2pt}
-
+% ---------- Headings ----------
+\usepackage{titlesec}
 \titleformat{\section}
   {\large\bfseries}
   {}
   {0pt}
   {}
-  [\titlerule]
+\titlespacing*{\section}{0pt}{1.2em}{0.6em}
 
-\titleformat{\subsection}
-  {\normalsize\bfseries}
-  {}
-  {0pt}
-  {}
+% ---------- Links ----------
+\usepackage[hidelinks]{hyperref}
 
-\hypersetup{
-  colorlinks=true,
-  urlcolor=black,
-  linkcolor=black
-}
+% ---------- Remove numbering ----------
+\setcounter{secnumdepth}{0}
 
+% ---------- No page numbers ----------
+\pagestyle{empty}
+
+% ---------- Kill horizontal rules ----------
+\let\hrule\relax
+
+% ---------- Document ----------
 \begin{document}
 
-\begin{center}
-  {\LARGE \textbf{$name$}}\\[0.3em]
-  {\large $title$}\\[0.6em]
-  \href{mailto:$email$}{$email$} \quad
-  \href{https://$github$}{$github$}
-\end{center}
-
-\vspace{1em}
+% NOTE:
+% We intentionally do NOT render name / email / links here.
+% This PDF is a document, not a landing page.
 
 $body$
 
