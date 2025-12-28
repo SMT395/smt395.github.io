@@ -1,55 +1,48 @@
 \documentclass[10pt,a4paper]{article}
 
 % ---------- Geometry ----------
-\usepackage[margin=2cm]{geometry}
+\usepackage[margin=1.7cm]{geometry}
 
-% ---------- Fonts & layout ----------
+% ---------- Fonts ----------
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
+
+% ---------- Spacing ----------
 \usepackage{setspace}
 \setstretch{1.05}
+\setlength{\parskip}{0pt}
 
-% ---------- Lists ----------
-\usepackage{enumitem}
-\setlist[itemize]{
-  leftmargin=*,
-  itemsep=2pt,
-  topsep=2pt,
-  parsep=0pt,
-  partopsep=0pt
-}
-
-% Pandoc compatibility
+% ---------- Pandoc list compatibility ----------
 \providecommand{\tightlist}{%
-  \setlength{\itemsep}{2pt}\setlength{\parskip}{0pt}}
-
-% ---------- Headings ----------
-\usepackage{titlesec}
-\titleformat{\section}
-  {\large\bfseries}
-  {}
-  {0pt}
-  {}
-\titlespacing*{\section}{0pt}{1.2em}{0.6em}
+  \setlength{\itemsep}{0pt}%
+  \setlength{\parskip}{0pt}%
+}
 
 % ---------- Links ----------
 \usepackage[hidelinks]{hyperref}
 
-% ---------- Remove numbering ----------
+% ---------- Header / Footer ----------
+\usepackage{fancyhdr}
+\setlength{\headheight}{14pt}
+\pagestyle{fancy}
+\fancyhf{}
+
+\fancyhead[L]{Curriculum Vitae}
+\fancyhead[R]{Thomas I. Khan}
+
+\fancyfoot[C]{\small thomas.khan@outlook.com \quad | \quad github.com/SMT395 \quad | \quad smt395.github.io}
+
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% ---------- Disable section numbering ----------
 \setcounter{secnumdepth}{0}
 
-% ---------- No page numbers ----------
-\pagestyle{empty}
-
-% ---------- Kill horizontal rules ----------
+% ---------- Remove horizontal rules ----------
 \let\hrule\relax
 
 % ---------- Document ----------
 \begin{document}
-
-% NOTE:
-% We intentionally do NOT render name / email / links here.
-% This PDF is a document, not a landing page.
 
 $body$
 

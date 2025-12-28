@@ -1,94 +1,68 @@
 ---
-layout: page
-title: "Curriculum Vitae"
-permalink: /cv/
+geometry:
+  - left=1.2cm
+  - right=1.2cm
+  - top=1.5cm
+  - bottom=1.5cm
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyhf{}
+  - \fancyhead[L]{Curriculum Vitae}
+  - \fancyhead[R]{Thomas I. Khan}
+  - \fancyfoot[C]{\small thomas.khan@outlook.com \ | \ github.com/SMT395 \ | \ smt395.github.io}
+  - \renewcommand{\headrulewidth}{0pt}
+  - \renewcommand{\footrulewidth}{0pt}
 ---
 
-PDF version: **[Download here](/assets/CV.pdf)**  
+## Education
 
-Languages: **English (C2)** · **French (C2)** · **German (C1)**
+English (C2), French (C2), German (C1)
 
----
+### M.Sc. in Data Science  
+Université libre de Bruxelles (ULB), Faculty of Science (2024–)
 
-#### **Research Interests**
+> - **Bayesian Inference with Fisher Information Divergence**  \
+>   Master’s dissertation on discretised Fisher-divergence-based posteriors for intractable discrete likelihoods.
+> - **EMG-Based Joint Angle Prediction** \
+>   Ensembling models and Domain Adversarial Neural Network on sEMG; ranked 2nd.
 
-Machine Learning · Bayesian Inference · Computational Statistics  
-Computer Vision · Statistical Learning Theory · Uncertainty Quantification  
-Applied ML in Finance, Engineering, and Scientific Computing
+### M.Sc. and B.Sc. in Economics (M.Sc. Cum Laude)
+Solvay Brussels School of Economics and Management (2014–2021)
 
----
+> Minor: Statistics and Econometrics
 
-### **Education**
-
-#### **M.Sc. in Data Science**  
-**Université libre de Bruxelles (ULB) — Faculty of Science**  
-*2024 – Present*
-
-Relevant Coursework: Machine Learning, Time Series, Computational Statistics, Big Data Algorithms.
-
-**Selected Projects**
-- **Bayesian Inference with Fisher Information Divergence** — Master’s dissertation on discretised Fisher-divergence–based posteriors for intractable discrete likelihoods.  
-- **Spotify Playlist Challenge** — Feature-based playlist similarity and evaluation pipeline; implemented and benchmarked multiple metrics.  
-- **Neural Random Forest Replication** — TensorFlow re-implementation and interpretability assessment vs. tree ensembles.  
-- **EMG-Based Joint Angle Prediction** — Ensembling models and Domain Adversarial Neural Network implementation on sEMG; **2nd/41** in MSc project competition.
-
-#### **M.Sc. & B.Sc. in Economics (M.Sc. Cum Laude)**
-**Solvay Brussels School of Economics & Management**  
-*2014 – 2021*  
-Minor: **Statistics/Econometrics**  
-Focus: **Econometrics, statistics, financial modelling**
-
-
-##### **Baccalauréat**  
-Französisches Gymnasium zu Berlin  
-*2013*
+### Baccalauréat *Französisches Gymnasium zu Berlin* (2013)
 
 ---
 
-### **Experience**
+## Experience
 
-#### **Machine Learning Research Assistant**
-**KU Leuven – Faculty of Engineering Science (Chem & Tech)**  
-*2024 – Present*
+### Machine Learning Research Assistant  
+KU Leuven, Faculty of Engineering Science (Chem and Tech) (2024–)
 
-- Designed and trained a **YOLO-based object detection model** to locate plastic items in heterogeneous imaging conditions, including dataset construction, annotation workflows, and evaluation.
-- Developed a **plastic-type classification model** using cropped ROIs from the detector, focusing on robustness across domains and practical constraints of real-world sorting environments.
-- Built an **end-to-end prototype system** integrating detection → cropping → classification, packaged into modular Docker services for reproducible deployment and internal faculty testing.
-- Established reusable **ML data infrastructure**, enabling scalable experiments and clean dataset growth for the research group.
+> - Designed and trained YOLO-based object detection models for plastic item localisation in heterogeneous imaging conditions.
+> - Developed plastic-type classification models using cropped regions of interest with robustness constraints.
+> - Built an end-to-end prototype integrating detection, cropping, and classification packaged as modular Docker services.
+> - Established reusable ML data infrastructure enabling scalable experimentation.
 
----
+### Senior Associate, Risk and Treasury Consulting  
+KPMG GmbH, Frankfurt (03/2024 – 10/2024)
 
-#### **Senior Associate — Risk & Treasury Consulting**  
-**KPMG GmbH (Frankfurt)**  
-*03.2024 – 10.2024*
+> - Supported ECB on-site interest-rate-risk inspections at State Street Bank Germany.
+> - Implemented ALM and interest-rate-risk frameworks including fund-term pricing.
 
-- Supported interest rate risk ECB on-site inspection of State Street Bank Germany.  
-- Implemented ALM-risk frameworks (fund-term pricing, interest rate risk) at significant German banks.
+### Supervisory Analyst, Banking Supervision  
+European Central Bank, Frankfurt (09/2021 – 09/2023)
 
----
-
-#### **Supervisory Analyst — Banking Supervision**  
-**European Central Bank (DG-OMI)**  
-*09.2021 – 09.2023*
-
-- Built Python/SQL/Tableau/GitLab pipelines automating inspection-support processes; reduced reporting delays by **80%+**.  
-- Developed an internal **inspection-findings dashboard** and analytics workflows reused across missions.  
-- Implemented a **NLP prototype** (Regex, TF-IDF, tokenisation) to extract findings from supervisory documents.  
-- Joined to ECB interest rate risk on-site inspection.
+> - Built Python, SQL, Tableau, and GitLab pipelines automating inspection support and reporting.
+> - Developed internal dashboards and analytics workflows reused across missions.
+> - Implemented an NLP prototype to extract findings from supervisory documents.
 
 ---
 
-### **Technical Skills**
+## Technical Skills
 
-**ML & Data Science:** PyTorch, Yolo (Ultralytics), TensorFlow, scikit-learn, Jax, NumPy
-**Tools & Infra:** Git, Docker, Label-Studio, Polars, DuckDB, Apache Spark, Tableau  
-**Cloud:** AWS S3 & IAM, CLI workflows
-
----
-
-### **Links**
-
-- GitHub: **https://github.com/SMT395**  
-- Email: **thomas.khan@outlook.com**
-
----
+> **ML and Data Science:** PyTorch, YOLO (Ultralytics), TensorFlow, scikit-learn, JAX, NumPy   \
+> **Tools and Infrastructure:** Git, Docker, Label Studio, Polars, DuckDB, Apache Spark, Tableau   \
+> **Cloud:** AWS S3 and IAM 
