@@ -22,7 +22,6 @@ header-includes:
 
 ## Education
 
-English (C2), French (C2), German (C1)
 
 ### M.Sc. in Data Science  
 Université libre de Bruxelles (ULB), Faculty of Science (2024–)
