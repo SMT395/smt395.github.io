@@ -14,6 +14,11 @@ header-includes:
   - \renewcommand{\headrulewidth}{0pt}
   - \renewcommand{\footrulewidth}{0pt}
 ---
+```{=html}
+<p style="margin-bottom:1em;">
+  <a href="/cv/cv.pdf" style="font-weight:600;">Download CV (PDF)</a>
+</p>
+```
 
 ## Education
 
@@ -32,7 +37,7 @@ Solvay Brussels School of Economics and Management (2014–2021)
 
 > Minor: Statistics and Econometrics
 
-### Baccalauréat *Französisches Gymnasium zu Berlin* (2013)
+### Baccalauréat *Französisches Gymnasium zu Berlin* (2013) 
 
 ---
 
