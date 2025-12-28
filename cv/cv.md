@@ -55,19 +55,29 @@ KU Leuven, Faculty of Bio-Engineering (cMACS) (2024–)
 KPMG GmbH, Frankfurt (03/2024 – 10/2024)
 
 > - Supported ECB on-site interest-rate-risk inspections at State Street Bank Germany.
-> - Implemented ALM and interest-rate-risk frameworks including fund-term pricing.
+> - Implemented ALM and interest-rate-risk frameworks, including term-structure and fund-pricing components, for banking clients.
 
 ### Supervisory Analyst, Banking Supervision  
 European Central Bank, Frankfurt (09/2021 – 09/2023)
 
-> - Built Python, SQL, Tableau, and GitLab pipelines automating inspection support and reporting.
-> - Developed internal dashboards and analytics workflows reused across missions.
-> - Implemented an NLP prototype to extract findings from supervisory documents.
+> - Owned and maintained the team’s supervisory dashboards and underlying Python–SQL analytics stack, ensuring continuity after senior technical lead departure.
+> - Refactored and consolidated legacy reporting pipelines, standardising workflows used across supervisory missions.
+> - Led delivery of a core OMI Directorate-General–level analytical product, coordinating technical execution through to production and stakeholder sign-off.
+> - Prototyped an NLP-based tool for automated extraction of findings from supervisory and inspection documents.
+
 
 ---
 
-## Technical Skills
+## Skills
 
-> **ML and Data Science:** PyTorch, YOLO (Ultralytics), TensorFlow, scikit-learn, JAX, NumPy   \
-> **Tools and Infrastructure:** Git, Docker, Label Studio, Polars, DuckDB, Apache Spark, Tableau   \
-> **Cloud:** AWS S3 and IAM 
+> ML and Statistical Modelling:
+> PyTorch, JAX, TensorFlow, scikit-learn, YOLO (Ultralytics), NumPy
+> 
+> Data and Systems:
+> Polars, SQL, Pandas, DuckDB, Apache Spark
+> 
+> Tooling and Infrastructure:
+> Git, Docker, AWS S3 & IAM, Label Studio
+> 
+> Languages:
+> English (C2), French (C2), German (C1)
