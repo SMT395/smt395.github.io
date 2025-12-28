@@ -69,14 +69,8 @@ European Central Bank, Frankfurt (09/2021 – 09/2023)
 
 ## Skills
 
-> ML and Statistical Modelling:
-> PyTorch, JAX, TensorFlow, scikit-learn, YOLO (Ultralytics), NumPy
-> 
-> Data and Systems:
-> Polars, SQL, Pandas, DuckDB, Apache Spark
-> 
-> Tooling and Infrastructure:
-> Git, Docker, AWS S3 & IAM, Label Studio
-> 
-> Languages:
-> English (C2), French (C2), German (C1)
+
+> - **ML & Statistical Modelling:** PyTorch, JAX, TensorFlow, scikit-learn, YOLO (Ultralytics), NumPy
+> - **Data & Systems:** Polars, SQL, Pandas, DuckDB, Apache Spark
+> - **Tooling & Infrastructure:** Git, Docker, AWS S3 & IAM, Label Studio
+> - **Languages:** English (C2), French (C2), German (C1)
