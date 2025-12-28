@@ -44,7 +44,7 @@ Solvay Brussels School of Economics and Management (2014–2021)
 ## Experience
 
 ### Machine Learning Research Assistant  
-KU Leuven, Faculty of Engineering Science (Chem and Tech) (2024–)
+KU Leuven, Faculty of Bio-Engineering (cMACS) (2024–)
 
 > - Designed and trained YOLO-based object detection models for plastic item localisation in heterogeneous imaging conditions.
 > - Developed plastic-type classification models using cropped regions of interest with robustness constraints.
