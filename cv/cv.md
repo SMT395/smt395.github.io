@@ -45,10 +45,11 @@ Solvay Brussels School of Economics and Management (2014–2021)
 ### Machine Learning Research Assistant  
 KU Leuven, Faculty of Bio-Engineering (cMACS) (2025–)
 
-> - Designed and trained YOLO-based object detection models for plastic item localisation in heterogeneous imaging conditions.
-> - Developed plastic-type classification models using cropped regions of interest with robustness constraints.
-> - Built an end-to-end prototype integrating detection, cropping, and classification packaged as modular Docker services.
-> - Established reusable ML data infrastructure enabling scalable experimentation.
+> - Developed a research prototype for image-based plastic sorting to complement spectrometer-based classification in difficult cases such as black plastics.
+> - Trained YOLO-based localisation models achieving 90%+ ROI detection accuracy for object-centred cropping.
+> - Built PP/PE/PS/PVC ConvNeXt-Tiny classifiers using one-vs-rest detectors and logit-/energy-based evidence scores.
+> - Designed AWS- and MLflow-supported experiments to analyse generalisation, uncertainty proxies, robustness, and failure modes across thousands of labelled images.
+> - Contributed to labelling, data cleaning, retraining, and a queue-triggered local inference testbench averaging ~500 ms per image.
 
 ### Senior Associate, Risk and Treasury Consulting  
 KPMG GmbH, Frankfurt (03/2024 – 10/2024)
