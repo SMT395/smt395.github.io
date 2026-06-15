@@ -49,13 +49,13 @@ KU Leuven, Faculty of Bio-Engineering (cMACS) (2025–)
 > - Trained YOLO-based localisation models achieving 90%+ ROI detection accuracy for object-centred cropping.
 > - Built PP/PE/PS/PVC ConvNeXt-Tiny classifiers using one-vs-rest detectors and logit-/energy-based evidence scores.
 > - Designed AWS- and MLflow-supported experiments to analyse generalisation, uncertainty proxies, robustness, and failure modes across thousands of labelled images.
-> - Contributed to labelling, data cleaning, retraining, and a queue-triggered local inference testbench averaging ~500 ms per image.
+> - Implemented a queue-triggered local inference testbench using AWS staging to evaluate image-based classification under operational conditions.
+
 
 ### Senior Associate, Risk and Treasury Consulting  
 KPMG GmbH, Frankfurt (03/2024 – 10/2024)
 
-> - Supported ECB on-site interest-rate-risk inspections at State Street Bank Germany.
-> - Implemented ALM and interest-rate-risk frameworks, including term-structure and fund-pricing components, for banking clients.
+> - Supported ECB-led interest-rate-risk inspections and implemented ALM / fund-transfer-pricing components for banking clients.
 
 ### Supervisory Analyst, Banking Supervision  
 European Central Bank, Frankfurt (09/2021 – 09/2023)
