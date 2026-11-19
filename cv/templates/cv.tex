@@ -1,7 +1,14 @@
 \documentclass[10pt,a4paper]{article}
 \usepackage[left=1.5cm,right=1.5cm,top=1.6cm,bottom=1.6cm]{geometry}
 \usepackage{fontspec}
-\setmainfont{Liberation Serif}
+\setmainfont{lmroman10-regular.otf}[
+  Path=fonts/,
+  BoldFont=lmroman10-bold.otf,
+  ItalicFont=lmroman10-italic.otf,
+  BoldItalicFont=lmroman10-bolditalic.otf
+]
+\newfontfamily\cvsectionfont{lmroman12-bold.otf}[Path=fonts/]
+\newfontfamily\cvfooterfont{lmroman9-regular.otf}[Path=fonts/]
 \usepackage{microtype}
 \usepackage{titlesec}
 \usepackage{enumitem}
@@ -11,7 +18,7 @@
 \setlength{\parskip}{2pt}
 \setlist[itemize]{leftmargin=1.25em,topsep=3pt,itemsep=2pt,parsep=0pt}
 \providecommand{\tightlist}{\setlength{\itemsep}{2pt}\setlength{\parskip}{0pt}}
-\titleformat{\subsection}{\large\bfseries}{}{0pt}{}
+\titleformat{\subsection}{\large\cvsectionfont}{}{0pt}{}
 \titlespacing*{\subsection}{0pt}{10pt}{4pt}
 \titleformat{\subsubsection}{\normalsize\bfseries}{}{0pt}{}
 \titlespacing*{\subsubsection}{0pt}{7pt}{2pt}
@@ -21,7 +28,7 @@
 \fancyhf{}
 \fancyhead[L]{Curriculum Vitae}
 \fancyhead[R]{Thomas I. Khan}
-\fancyfoot[C]{\small thomas.khan@outlook.com \quad | \quad github.com/SMT395 \quad | \quad smt395.github.io}
+\fancyfoot[C]{\small\cvfooterfont thomas.khan@outlook.com \quad | \quad github.com/SMT395 \quad | \quad smt395.github.io}
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
 \begin{document}
