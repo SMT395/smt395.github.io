@@ -42,7 +42,7 @@ Minor: Statistics and Econometrics
 
 ## Experience
 
-### Machine Learning Research Assistant  
+### Machine Learning Research Engineer
 KU Leuven, Faculty of Bio-Engineering (cMACS) (2025–)
 
 - Owned ML development for an RGB plastic-identification system, combining YOLOv8-OBB detection with IVON-based probabilistic classifiers to complement spectral identification of dark and black plastics.
