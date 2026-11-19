@@ -47,6 +47,7 @@ KU Leuven, Faculty of Bio-Engineering (cMACS) (2025–)
 
 - Owned ML development for an RGB plastic-identification system, combining YOLOv8-OBB detection with IVON-based probabilistic classifiers to complement spectral identification of dark and black plastics.
 - Achieved approximately 90% precision at 50% recall for polypropylene on the black-plastic evaluation set using confidence-based prediction selection; assessed sensitivity to polypropylene prevalence from 30% to 75%, tracking experiments in MLflow.
+- Analysed learned representations using UMAP and t-SNE; identified prediction variability across camera angles, motivating a two-camera prototype to test whether complementary object views improve classification.
 - Curated approximately 6,000 images plus a separate 1,000-image black-plastic holdout, annotated 1,000 images for YOLO, and contributed approximately 1,500 images during a week of recycling-plant data collection.
 - Built an inference web application and an S3/SQS workflow for processing uploaded images on a local workstation, with CI/CD to build and publish the application's Docker image.
 
